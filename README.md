@@ -45,7 +45,13 @@ In line 396-415 of **SSBC_demo.py**, there are some parameters that require to b
 
 where **window_size**, **r** and **band_range** are the key parameters in terms of performance.
 
+## Performance
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/discrete-cosine-transform-based-joint/hyperspectral-image-classification-on-houston)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-houston?p=discrete-cosine-transform-based-joint)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/discrete-cosine-transform-based-joint/hyperspectral-image-classification-on-indian)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-indian?p=discrete-cosine-transform-based-joint)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/discrete-cosine-transform-based-joint/hyperspectral-image-classification-on-kennedy)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-kennedy?p=discrete-cosine-transform-based-joint)
 
 
 
